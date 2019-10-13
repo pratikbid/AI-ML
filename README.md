@@ -1,2 +1,2 @@
 # AI-ML
-All AIML project reference
+All Artificial Learning and Machine Intelligence projects repository
